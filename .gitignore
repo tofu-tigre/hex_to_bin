@@ -1,0 +1,6 @@
+bazel-bin
+bazel-out
+.vscode
+bazel-testlogs
+bazel-hex_to_bin
+
